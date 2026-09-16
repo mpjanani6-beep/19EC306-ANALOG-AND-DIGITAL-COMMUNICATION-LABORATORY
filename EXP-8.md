@@ -87,8 +87,8 @@ Ensemble 5
 0.4
 
 # OUTPUT:
+<img width="377" height="573" alt="image" src="https://github.com/user-attachments/assets/21293389-046b-48f2-9b51-ff209aea273d" />
 
 
 # RESULT:
 Thus Shannon Fano coding are performed using MATLAB.
-
